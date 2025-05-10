@@ -1,0 +1,12 @@
+numpy
+pandas
+from_root
+soundfile
+joblib
+flask
+matplotlib
+torchaudio
+torchvision
+boto3
+python-dotenv
+-e .

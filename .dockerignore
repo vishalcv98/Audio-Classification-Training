@@ -1,0 +1,8 @@
+notebooks/
+artifacts/
+logs/
+data/
+env/
+demo.py
+template.py
+Audio_Classifier.egg-info
